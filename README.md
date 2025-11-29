@@ -25,6 +25,6 @@ Crear un sitio web responsivo e interactivo que informe sobre conceptos clave de
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tuusuario/tu-repo-placeholder.git
+   git clone https://github.com/Luciano-Oviedo/Web-informativa-de-ciberseguridad.git
    ```
 2. Abre cualquiera de los archivos `.html` en tu navegador para navegar por el sitio.
