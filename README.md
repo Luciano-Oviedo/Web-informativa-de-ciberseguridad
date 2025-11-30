@@ -16,10 +16,6 @@ Crear un sitio web responsivo e interactivo que informe sobre conceptos clave de
 
 HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · Git · GitHub
 
-[🌐 Demo](https://luciano-oviedo.github.io/Web-informativa-de-ciberseguridad/)
-
-![Captura del proyecto](./assets/screenshot-web_ciberseguridad.jpeg)
-
 ## Estructura del proyecto
 
 - **index.html**: página principal con introducción y barra de navegación.
@@ -29,6 +25,10 @@ HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · Git · GitHub
 - **styles/**: archivo CSS con estilos personalizados para complementar Bootstrap.
 - **script.js**: código JavaScript y jQuery para validación de formularios y funcionalidades interactivas.
 
+---
+
+![Captura del proyecto](./assets/screenshot-web_ciberseguridad.jpeg)
+
 ## Ejecución y pruebas
 
 1. Clona el repositorio:
@@ -36,3 +36,5 @@ HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · Git · GitHub
    git clone https://github.com/Luciano-Oviedo/Web-informativa-de-ciberseguridad.git
    ```
 2. Abre cualquiera de los archivos `.html` en tu navegador para navegar por el sitio.
+
+3. Alternativamente, puedes ingresar a la [🌐 Demo](https://luciano-oviedo.github.io/Web-informativa-de-ciberseguridad/) y probar la aplicación desplegada directamente.
