@@ -12,6 +12,14 @@ Crear un sitio web responsivo e interactivo que informe sobre conceptos clave de
 - Diseño responsivo y accesible utilizando Bootstrap.
 - Interactividad mejorada con jQuery para manipulación del DOM, validación de formularios y controles dinámicos como acordeón y modal.
 
+## Tecnologías utilizadas
+
+HTML5 · CSS3 · JavaScript · Bootstrap · jQuery · Git · GitHub
+
+[🌐 Demo](https://luciano-oviedo.github.io/Web-informativa-de-ciberseguridad/)
+
+![Captura del proyecto](./assets/screenshot-web_ciberseguridad.jpeg)
+
 ## Estructura del proyecto
 
 - **index.html**: página principal con introducción y barra de navegación.
@@ -21,7 +29,7 @@ Crear un sitio web responsivo e interactivo que informe sobre conceptos clave de
 - **styles/**: archivo CSS con estilos personalizados para complementar Bootstrap.
 - **script.js**: código JavaScript y jQuery para validación de formularios y funcionalidades interactivas.
 
-## Cómo ejecutar el proyecto
+## Ejecución y pruebas
 
 1. Clona el repositorio:
    ```
